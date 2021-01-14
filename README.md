@@ -1,2 +1,1 @@
-# Computer_Vision_2021
-Computer Vision (Term 2), Department of Computing
+Courseworks for Computer Vision, Spring Term 2021, Department of Computing
